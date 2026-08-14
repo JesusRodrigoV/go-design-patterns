@@ -1,0 +1,22 @@
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Local tooling
+.atl/
+
+# Reference/scratch files
+api_model.txt
+
+# Build artifacts
+*.exe
+*.exe~
+
+# Editors
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
